@@ -1,6 +1,10 @@
 <h1 align="center"><b>Hi , I'm Juan López </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 I am an electrical engineer with passion and interest in the world of web development. This passion and interest have driven me to become a Full Stack Developer with a strong focus on JavaScript. I have experience creating web applications using technologies such as ReactJS and ExpressJS in NodeJS runtime environments, and I have knowledge of SQL databases and MongoDB as a NoSQL database.
-
+<br></br>
+<ul>
+  <li>🌱 I'm currently enhancing my JavaScript skills and learning Next.js as a new framework.</li>
+</ul>
+  
 ## Languajes and tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -12,6 +16,8 @@ I am an electrical engineer with passion and interest in the world of web develo
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="ExpressJS" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" style="padding-right:10px;" />
 
 <img align="left" alt="Vite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" style="padding-right:10px;" />
 
